@@ -1,0 +1,4 @@
+2018-03-05 08:37:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: SQLステートメントに文法エラーがあります "A[*]"; 期待されるステートメント "ALTER, ANALYZE, {"
+Syntax error in SQL statement "A[*]"; expected "ALTER, ANALYZE, {"; SQL statement:
+A [42001-196]
